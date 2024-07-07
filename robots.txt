@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://poiqazwsx.github.io/retype-test/sitemap.xml.gz
